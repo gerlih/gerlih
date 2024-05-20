@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas Vindas ao meu perfil 💮
 
-<!--
-**gerlih/gerlih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou a Gerliane 💮
 
-Here are some ideas to get you started:
+- Estou estudando na plataforma [Alura] (https://cursos.alura.com.br).
+- Estou me desevolvendo a linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projeto desenvolvido !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### você pode entrar em contato comigo 📫
+
+00001243238033sp@al.educacao.sp.gov.br
+@gerlih_
+![[]()https://media.tenor.com/noPsDLrGVEQAAAAM/i-do-not-wish-to-speak-with-you-penelope-featherington.gif
